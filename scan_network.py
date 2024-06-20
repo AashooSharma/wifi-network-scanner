@@ -6,7 +6,7 @@ def get_local_ip():
     ifconfig_result = os.popen('ifconfig').read()
 
     # Extract the IP address using regex
-    ip_search = re.search(r'inet (\d+\.\d+\.\d+\.\d+)', ifconfig_result)
+    ip_search = re.search(r'wlan0:.*?inet (\d+\.\d+\.\d+\.\d+)', ifconfig_result, re.DOTALL)
     if ip_search:
         return ip_search.group(1)
     else:
