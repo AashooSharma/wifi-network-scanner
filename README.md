@@ -79,7 +79,7 @@ Follow us on social media for updates and support:
 - [YouTube](https://youtube.com/@csheducation)
 - [Instagram](https://instagram.com/As__hacker)
 - [LinkedIn](https://linkedin.com/in/aashoosharma)
-- [Telegram](https://t.me/Ashackerassr)
+- [Telegram](https://telegram.me/Ashackerassr)
 
 ---
 
